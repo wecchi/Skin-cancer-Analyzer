@@ -87,7 +87,7 @@ def display_prediction(y_new):
 
 
 def main():
-    st.sidebar.header('Skin cancer Analyzer')
+    st.sidebar.header('Doctor Skin')
     st.sidebar.subheader('Choose a page to proceed:')
     page = st.sidebar.selectbox("", ["Sample Data", "Upload Your Image"])
 
