@@ -3,4 +3,4 @@ O câncer de pele é o mais comum, e é diagnosticado principalmente visualmente
 
 Dataset utilizado: HAM10000 ("Human Against Machine with 10000 training images"). https://www.kaggle.com/kmader/skin-cancer-mnist-ham10000
 
-#### Deploy [Heroku](https://doctor-skin.herokuapp.com/)
+#### Deploy [Heroku](https://drskin-analyser.herokuapp.com/)
